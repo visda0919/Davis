@@ -1,0 +1,5 @@
+{
+  "name": "GlobalStock AI Insight",
+  "description": "A comprehensive stock analysis platform for Taiwan and US markets, featuring real-time technical analysis charts, AI-powered market insights, and financial document analysis using Gemini.",
+  "requestFramePermissions": []
+}
